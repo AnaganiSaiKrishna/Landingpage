@@ -1,2 +1,1 @@
-# Landingpage
-Web Development and Designing
+# Landing-Page
